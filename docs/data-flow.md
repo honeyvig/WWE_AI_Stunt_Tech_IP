@@ -1,0 +1,1 @@
+Sensor → AI → Human approval → Execution.
